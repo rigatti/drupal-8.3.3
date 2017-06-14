@@ -1,0 +1,11 @@
+name: Jti
+type: theme
+description: 'Jti theme customization.'
+package: Custom
+core: 8.x
+version: 8.x-1.0-dev
+base theme: classy
+
+libraries:
+ - jti/global-styling
+ - jti/global-js
